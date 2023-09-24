@@ -1,2 +1,2 @@
-# Aimage: **An image genrating App using MERN stack and OPEN AI API.**
+# Chat.io: **Realtime chat app using ExpressJs, NodeJs and Socket.io**
 - **Tech stacks :** HTML, javascript, Express.js, Socket.io
